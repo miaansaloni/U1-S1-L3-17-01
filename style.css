@@ -1,6 +1,10 @@
 * {
   font-family: "Roboto", sans-serif, "Times New Roman";
-  font-weight: 400;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: "Libre Baskerville", serif;
 }
 
 header {
@@ -32,8 +36,9 @@ article {
 }
 
 article h1 {
+  font-family: "Libre Baskerville", serif;
   text-align: center;
-  font-size: 3em;
+  font-size: 2em;
   color: #333333;
   font-weight: 500;
 }
