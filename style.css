@@ -96,6 +96,10 @@ li span {
   font-weight: 500;
 }
 
+ol li p {
+  line-height: 1.4;
+}
+
 p a {
   color: #327372;
   font-weight: 500;
