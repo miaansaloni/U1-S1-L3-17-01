@@ -1,6 +1,6 @@
 * {
   font-family: "Roboto", sans-serif, "Times New Roman";
-  font-weight: 300;
+  font-weight: 400;
 }
 
 header {
@@ -10,7 +10,7 @@ header {
 }
 
 header img {
-  width: 10%;
+  width: 12rem;
 }
 nav {
   text-align: center;
