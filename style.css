@@ -2,7 +2,9 @@
   font-family: "Roboto", sans-serif, "Times New Roman";
   font-weight: 300;
 }
-
+body {
+  margin: unset;
+}
 h3 {
   font-family: "Libre Baskerville", serif;
 }
@@ -16,10 +18,11 @@ header {
 header img {
   width: 12rem;
 }
+
 nav {
   text-align: center;
   background-color: #fcfbf0;
-  color: #1e4b49;
+  color: #1b5e55;
   border-top: 2px solid #f8e6a3;
   font-weight: 500;
   padding-bottom: 0.1em;
